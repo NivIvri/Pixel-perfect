@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pixel-perfect/static/css/main.a04da323.chunk.css",
+    "main.js": "/Pixel-perfect/static/js/main.4192fcd4.chunk.js",
+    "main.js.map": "/Pixel-perfect/static/js/main.4192fcd4.chunk.js.map",
+    "runtime-main.js": "/Pixel-perfect/static/js/runtime-main.bbb29695.js",
+    "runtime-main.js.map": "/Pixel-perfect/static/js/runtime-main.bbb29695.js.map",
+    "static/js/2.dc86f03c.chunk.js": "/Pixel-perfect/static/js/2.dc86f03c.chunk.js",
+    "static/js/2.dc86f03c.chunk.js.map": "/Pixel-perfect/static/js/2.dc86f03c.chunk.js.map",
+    "index.html": "/Pixel-perfect/index.html",
+    "static/css/main.a04da323.chunk.css.map": "/Pixel-perfect/static/css/main.a04da323.chunk.css.map",
+    "static/js/2.dc86f03c.chunk.js.LICENSE.txt": "/Pixel-perfect/static/js/2.dc86f03c.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/Pixel-perfect/static/media/Livvic-SemiBold.f5f72371.ttf",
+    "static/media/personImg1.9db99cf7.png": "/Pixel-perfect/static/media/personImg1.9db99cf7.png",
+    "static/media/personImg2.2dbb2425.png": "/Pixel-perfect/static/media/personImg2.2dbb2425.png",
+    "static/media/personImg3.d098ad6a.png": "/Pixel-perfect/static/media/personImg3.d098ad6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb29695.js",
+    "static/js/2.dc86f03c.chunk.js",
+    "static/css/main.a04da323.chunk.css",
+    "static/js/main.4192fcd4.chunk.js"
+  ]
+}
